@@ -235,4 +235,4 @@ This repository serves as the official landing page for Microsoft Hyperlapse. Th
 **Get the most recent version of Microsoft Hyperlapse today!**
 
 ---
-**Last updated:** 2026-10-10 06:28:09 UTC
+**Last updated:** 2026-10-10 13:06:20 UTC
